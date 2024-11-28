@@ -22,7 +22,7 @@
 > Ikuti langkah-langkah berikut untuk menginstal dan menjalankan:  
 > 1. Clone repositori ke komputer Anda:  
 >    ```bash  
->    git clone https://github.com/username/repo-name.git  
+>    git clone https://github.com/developerk-id/Lost-Saga-Server-2024.git
 >    ```  
 > 2. Unduh dan instal semua *tools* yang disebutkan di atas.  
 > 3. Ikuti panduan konfigurasi server di dokumentasi ini.  
